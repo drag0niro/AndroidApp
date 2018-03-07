@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pierwsza" android:title="pierwsza" android:icon="@drawable/ic_action_name"/>
+    <item android:id="@+id/druga" android:title="druga" android:icon="@drawable/ic_action_name"/>
+    <item android:id="@+id/trzecia" android:title="trzecia" android:icon="@drawable/ic_action_name"/>
+    <item android:id="@+id/czwarta" android:title="czwarta" android:icon="@drawable/ic_action_name"/>
+    <item android:id="@+id/piata" android:title="piata" android:icon="@drawable/ic_action_name"/>
+
+</menu>
